@@ -7,6 +7,7 @@
 
  Página de Viagens criada com Bootstrap. Essa página tem Navbar,carrosel,scrollspy e formulário.
  Feita no intuito de treinar Bootstrap.
+ Para acessar o site clique [aqui](https://jeanaraga.github.io/Curso-de-Bootstrap/)
 
 ### Ajustes e melhorias
 
